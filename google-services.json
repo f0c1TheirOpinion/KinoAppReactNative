@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946111430758",
+    "project_id": "kinokaif-3dbff",
+    "storage_bucket": "kinokaif-3dbff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946111430758:android:380a6ae2aec71013782da7",
+        "android_client_info": {
+          "package_name": "com.unkroot.KinoKaif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946111430758-2o7vth0j93fqifglnja3prhhggtqbhup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfDQ9LtOWHbLUjMid82c5YJviPbwVuNjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946111430758-2o7vth0j93fqifglnja3prhhggtqbhup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
